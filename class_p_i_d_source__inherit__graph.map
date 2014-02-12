@@ -1,0 +1,6 @@
+<map id="PIDSource" name="PIDSource">
+<area shape="rect" id="node2" href="$class_accelerometer.html" title="Handle operation of the accelerometer. " alt="" coords="5,81,112,106"/>
+<area shape="rect" id="node3" href="$class_analog_channel.html" title="Analog channel class. " alt="" coords="136,81,248,106"/>
+<area shape="rect" id="node4" href="$class_gyro.html" title="Use a rate gyro to return the robots heading relative to a starting position. " alt="" coords="272,81,321,106"/>
+<area shape="rect" id="node5" href="$class_ultrasonic.html" title="Ultrasonic rangefinder class. " alt="" coords="346,81,427,106"/>
+</map>

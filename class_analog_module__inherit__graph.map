@@ -1,0 +1,5 @@
+<map id="AnalogModule" name="AnalogModule">
+<area shape="rect" id="node2" href="$class_module.html" title="Module" alt="" coords="25,155,89,181"/>
+<area shape="rect" id="node3" href="$class_sensor_base.html" title="Base class for all sensors. " alt="" coords="10,81,104,106"/>
+<area shape="rect" id="node4" href="$class_error_base.html" title="Base class for most objects. " alt="" coords="17,6,97,31"/>
+</map>

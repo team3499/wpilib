@@ -1,0 +1,5 @@
+<map id="Module" name="Module">
+<area shape="rect" id="node2" href="$class_sensor_base.html" title="Base class for all sensors. " alt="" coords="5,185,99,210"/>
+<area shape="rect" id="node3" href="$class_error_base.html" title="Base class for most objects. " alt="" coords="11,107,92,133"/>
+<area shape="rect" id="node4" href="$class_error.html" title="Error object represents a library error. " alt="" coords="27,6,77,31"/>
+</map>

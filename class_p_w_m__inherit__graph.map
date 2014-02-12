@@ -1,0 +1,7 @@
+<map id="PWM" name="PWM">
+<area shape="rect" id="node4" href="$class_jaguar.html" title="Luminary Micro Jaguar Speed Control. " alt="" coords="5,230,67,255"/>
+<area shape="rect" id="node5" href="$class_servo.html" title="Standard hobby style servo. " alt="" coords="91,230,147,255"/>
+<area shape="rect" id="node6" href="$class_victor.html" title="IFI Victor Speed Controller. " alt="" coords="171,230,225,255"/>
+<area shape="rect" id="node2" href="$class_sensor_base.html" title="Base class for all sensors. " alt="" coords="72,81,165,106"/>
+<area shape="rect" id="node3" href="$class_error_base.html" title="Base class for most objects. " alt="" coords="78,6,159,31"/>
+</map>

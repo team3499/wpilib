@@ -1,0 +1,5 @@
+<map id="DriverStation" name="DriverStation">
+<area shape="rect" id="node2" href="$class_sensor_base.html" title="Base class for all sensors. " alt="" coords="6,185,100,210"/>
+<area shape="rect" id="node3" href="$class_error_base.html" title="Base class for most objects. " alt="" coords="13,107,93,133"/>
+<area shape="rect" id="node4" href="$class_error.html" title="Error object represents a library error. " alt="" coords="28,6,79,31"/>
+</map>

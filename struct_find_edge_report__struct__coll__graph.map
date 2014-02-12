@@ -1,0 +1,6 @@
+<map id="FindEdgeReport_struct" name="FindEdgeReport_struct">
+<area shape="rect" id="node2" href="$struct_straight_edge__struct.html" title="StraightEdge_struct" alt="" coords="53,209,191,234"/>
+<area shape="rect" id="node3" href="$struct_edge_info__struct.html" title="EdgeInfo_struct" alt="" coords="5,107,120,133"/>
+<area shape="rect" id="node4" href="$struct_point_float__struct.html" title="PointFloat_struct" alt="" coords="71,6,192,31"/>
+<area shape="rect" id="node5" href="$struct_line_float__struct.html" title="LineFloat_struct" alt="" coords="145,107,260,133"/>
+</map>

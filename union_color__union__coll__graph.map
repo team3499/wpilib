@@ -1,0 +1,6 @@
+<map id="Color_union" name="Color_union">
+<area shape="rect" id="node2" href="$struct_r_g_b_value__struct.html" title="RGBValue_struct" alt="" coords="5,6,128,31"/>
+<area shape="rect" id="node3" href="$struct_h_s_i_value__struct.html" title="HSIValue_struct" alt="" coords="152,6,268,31"/>
+<area shape="rect" id="node4" href="$struct_h_s_v_value__struct.html" title="HSVValue_struct" alt="" coords="292,6,413,31"/>
+<area shape="rect" id="node5" href="$struct_h_s_l_value__struct.html" title="HSLValue_struct" alt="" coords="438,6,556,31"/>
+</map>

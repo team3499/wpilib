@@ -1,0 +1,7 @@
+<map id="SpokeReport2_struct" name="SpokeReport2_struct">
+<area shape="rect" id="node2" href="$struct_search_line_info__struct.html" title="SearchLineInfo_struct" alt="" coords="76,310,227,335"/>
+<area shape="rect" id="node3" href="$struct_edge_report2__struct.html" title="EdgeReport2_struct" alt="" coords="75,209,215,234"/>
+<area shape="rect" id="node4" href="$struct_edge_info__struct.html" title="EdgeInfo_struct" alt="" coords="69,107,184,133"/>
+<area shape="rect" id="node5" href="$struct_point_float__struct.html" title="PointFloat_struct" alt="" coords="134,6,255,31"/>
+<area shape="rect" id="node6" href="$struct_line_float__struct.html" title="LineFloat_struct" alt="" coords="205,158,320,183"/>
+</map>

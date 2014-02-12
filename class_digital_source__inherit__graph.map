@@ -1,0 +1,7 @@
+<map id="DigitalSource" name="DigitalSource">
+<area shape="rect" id="node5" href="$class_analog_trigger_output.html" title="Class to represent a specific output from an analog trigger. " alt="" coords="5,305,149,330"/>
+<area shape="rect" id="node6" href="$class_digital_input.html" title="Class to read a digital input. " alt="" coords="173,305,261,330"/>
+<area shape="rect" id="node2" href="$class_interruptable_sensor_base.html" title="InterruptableSensorBase" alt="" coords="62,155,231,181"/>
+<area shape="rect" id="node3" href="$class_sensor_base.html" title="Base class for all sensors. " alt="" coords="100,81,193,106"/>
+<area shape="rect" id="node4" href="$class_error_base.html" title="Base class for most objects. " alt="" coords="106,6,187,31"/>
+</map>

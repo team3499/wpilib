@@ -1,0 +1,5 @@
+<map id="RobotBase" name="RobotBase">
+<area shape="rect" id="node2" href="$class_iterative_robot.html" title="IterativeRobot implements a specific type of Robot Program framework, extending the RobotBase class..." alt="" coords="5,81,109,106"/>
+<area shape="rect" id="node3" href="$class_simple_c_robot.html" title="SimpleCRobot" alt="" coords="133,81,240,106"/>
+<area shape="rect" id="node4" href="$class_simple_robot.html" title="SimpleRobot" alt="" coords="264,81,361,106"/>
+</map>

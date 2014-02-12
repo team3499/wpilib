@@ -1,0 +1,5 @@
+<map id="DigitalModule" name="DigitalModule">
+<area shape="rect" id="node2" href="$class_module.html" title="Module" alt="" coords="23,155,88,181"/>
+<area shape="rect" id="node3" href="$class_sensor_base.html" title="Base class for all sensors. " alt="" coords="9,81,103,106"/>
+<area shape="rect" id="node4" href="$class_error_base.html" title="Base class for most objects. " alt="" coords="15,6,96,31"/>
+</map>

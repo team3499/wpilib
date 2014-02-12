@@ -1,0 +1,7 @@
+<map id="AxisCameraParams" name="AxisCameraParams">
+<area shape="rect" id="node2" href="$class_error_base.html" title="Base class for most objects. " alt="" coords="5,127,85,153"/>
+<area shape="rect" id="node3" href="$class_error.html" title="Error object represents a library error. " alt="" coords="20,6,71,31"/>
+<area shape="rect" id="node4" href="$class_task.html" title="WPI task is a wrapper for the native Task object. " alt="" coords="110,127,159,153"/>
+<area shape="rect" id="node5" href="$class_int_camera_parameter.html" title="Integer camera parameter. " alt="" coords="243,6,388,31"/>
+<area shape="rect" id="node6" href="$class_enum_camera_parameter.html" title="Enumerated camera parameter. " alt="" coords="421,127,587,153"/>
+</map>

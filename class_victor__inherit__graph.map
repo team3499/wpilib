@@ -1,0 +1,7 @@
+<map id="Victor" name="Victor">
+<area shape="rect" id="node2" href="$class_p_w_m.html" title="Class implements the PWM generation in the FPGA. " alt="" coords="25,155,79,181"/>
+<area shape="rect" id="node3" href="$class_sensor_base.html" title="Base class for all sensors. " alt="" coords="5,81,99,106"/>
+<area shape="rect" id="node4" href="$class_error_base.html" title="Base class for most objects. " alt="" coords="11,6,92,31"/>
+<area shape="rect" id="node5" href="$class_speed_controller.html" title="Interface for speed controlling devices. " alt="" coords="102,155,220,181"/>
+<area shape="rect" id="node6" href="$class_p_i_d_output.html" title="PIDOutput interface is a generic output for the PID class. " alt="" coords="244,155,327,181"/>
+</map>

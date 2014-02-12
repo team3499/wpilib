@@ -1,0 +1,9 @@
+<map id="ContourUnion_union" name="ContourUnion_union">
+<area shape="rect" id="node2" href="$struct_closed_contour__struct.html" title="ClosedContour_struct" alt="" coords="190,37,340,62"/>
+<area shape="rect" id="node3" href="$struct_point__struct.html" title="Point_struct" alt="" coords="6,81,98,106"/>
+<area shape="rect" id="node4" href="$struct_open_contour__struct.html" title="OpenContour_struct" alt="" coords="195,86,336,111"/>
+<area shape="rect" id="node5" href="$struct_line__struct.html" title="Line_struct" alt="" coords="222,135,309,161"/>
+<area shape="rect" id="node8" href="$struct_annulus__struct.html" title="Annulus_struct" alt="" coords="211,185,320,210"/>
+<area shape="rect" id="node6" href="$struct_rotated_rect__struct.html" title="RotatedRect_struct" alt="" coords="198,234,333,259"/>
+<area shape="rect" id="node7" href="$struct_rect__struct.html" title="Rect_struct" alt="" coords="221,287,310,313"/>
+</map>

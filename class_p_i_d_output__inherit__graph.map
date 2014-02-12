@@ -1,0 +1,4 @@
+<map id="PIDOutput" name="PIDOutput">
+<area shape="rect" id="node2" href="$class_jaguar.html" title="Luminary Micro Jaguar Speed Control. " alt="" coords="5,81,67,106"/>
+<area shape="rect" id="node3" href="$class_victor.html" title="IFI Victor Speed Controller. " alt="" coords="91,81,145,106"/>
+</map>

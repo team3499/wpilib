@@ -1,0 +1,12 @@
+<map id="DigitalInput" name="DigitalInput">
+<area shape="rect" id="node2" href="$class_digital_source.html" title="DigitalSource Interface. " alt="" coords="1662,75,1762,101"/>
+<area shape="rect" id="node3" href="$class_interruptable_sensor_base.html" title="InterruptableSensorBase" alt="" coords="1441,75,1610,101"/>
+<area shape="rect" id="node4" href="$class_sensor_base.html" title="Base class for all sensors. " alt="" coords="1156,19,1250,45"/>
+<area shape="rect" id="node5" href="$class_error_base.html" title="Base class for most objects. " alt="" coords="701,19,782,45"/>
+<area shape="rect" id="node6" href="$class_error.html" title="Error object represents a library error. " alt="" coords="424,19,475,45"/>
+<area shape="rect" id="node7" href="$classn_f_p_g_a_1_1n_a_d9_a5591_c_c64_e4_d_f756_d77_d1_b57_a549_e_1_1t_interrupt.html" title="nFPGA::nAD9A5591CC64E4DF756\lD77D1B57A549E::tInterrupt" alt="" coords="1085,69,1320,107"/>
+<area shape="rect" id="node8" href="$classn_f_p_g_a_1_1n_a_d9_a5591_c_c64_e4_d_f756_d77_d1_b57_a549_e_1_1t_scoped_system.html" title="nFPGA::nAD9A5591CC64E4DF756\lD77D1B57A549E::tScopedSystem" alt="" coords="624,69,859,107"/>
+<area shape="rect" id="node9" href="$classn_f_p_g_a_1_1t_system.html" title="nFPGA::tSystem" alt="" coords="389,105,510,130"/>
+<area shape="rect" id="node11" href="$classn_f_p_g_a_1_1t_interrupt_manager.html" title="nFPGA::tInterruptManager" alt="" coords="883,133,1061,158"/>
+<area shape="rect" id="node10" href="$structt_d_m_a_channel_descriptor.html" title="tDMAChannelDescriptor" alt="" coords="5,105,171,130"/>
+</map>

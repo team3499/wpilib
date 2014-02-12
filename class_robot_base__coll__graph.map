@@ -1,0 +1,8 @@
+<map id="RobotBase" name="RobotBase">
+<area shape="rect" id="node2" href="$class_task.html" title="WPI task is a wrapper for the native Task object. " alt="" coords="5,262,53,287"/>
+<area shape="rect" id="node3" href="$class_watchdog.html" title="Watchdog timer class. " alt="" coords="78,262,159,287"/>
+<area shape="rect" id="node4" href="$class_sensor_base.html" title="Base class for all sensors. " alt="" coords="108,185,201,210"/>
+<area shape="rect" id="node7" href="$class_driver_station.html" title="Provide access to the network communication data to / from the Driver Station. " alt="" coords="183,262,280,287"/>
+<area shape="rect" id="node5" href="$class_error_base.html" title="Base class for most objects. " alt="" coords="114,107,195,133"/>
+<area shape="rect" id="node6" href="$class_error.html" title="Error object represents a library error. " alt="" coords="129,6,180,31"/>
+</map>

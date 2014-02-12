@@ -1,0 +1,6 @@
+<map id="DigitalInput" name="DigitalInput">
+<area shape="rect" id="node2" href="$class_digital_source.html" title="DigitalSource Interface. " alt="" coords="39,230,139,255"/>
+<area shape="rect" id="node3" href="$class_interruptable_sensor_base.html" title="InterruptableSensorBase" alt="" coords="5,155,173,181"/>
+<area shape="rect" id="node4" href="$class_sensor_base.html" title="Base class for all sensors. " alt="" coords="42,81,136,106"/>
+<area shape="rect" id="node5" href="$class_error_base.html" title="Base class for most objects. " alt="" coords="49,6,129,31"/>
+</map>
